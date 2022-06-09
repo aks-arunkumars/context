@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.text-format{
+  font-size: 30px;
+  color: red;
+  margin-top: 200px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
